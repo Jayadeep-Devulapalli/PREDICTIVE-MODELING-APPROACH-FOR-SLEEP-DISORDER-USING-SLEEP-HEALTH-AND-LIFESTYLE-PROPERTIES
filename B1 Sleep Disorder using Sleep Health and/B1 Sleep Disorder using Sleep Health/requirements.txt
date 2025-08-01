@@ -1,0 +1,6 @@
+pip install matplotlib==3.5.3
+pip install numpy==1.19.2
+pip install pandas==0.25.3
+pip install scikit_learn==1.0.2
+pip install seaborn==0.13.2
+pip install Pillow==9.5.0
